@@ -1,4 +1,4 @@
-# SLAM-Course-Solutions 
+# Traditional SLAM in 2D
 This repository contains the full solutions to the assignments of the SLAM Robot Mapping course WS 2013/14 by [Dr. Cyrill Stachniss](http://www.informatik.uni-freiburg.de/~stachnis) - University of Freiburg, Germany.
 
 Folders are prefixed with the sheet number, as found on the course page.   

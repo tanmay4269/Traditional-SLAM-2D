@@ -52,6 +52,7 @@ The video/plot result(s) can be found within `/plots` in each assignment folder.
 ## Other Solutions
 Below are other repositories with similar solutions to the course assignments.   
 As Cyrill Stachniss has not published the solutions, I found them quite helpful to refer to for help and for checking my own solutions.
+ - [connorhennessy](https://github.com/conorhennessy/SLAM-Course-Solutions)
  -  [kiran-mohan](https://github.com/kiran-mohan) / **[SLAM-Algorithms-Octave](https://github.com/kiran-mohan/SLAM-Algorithms-Octave)**
  -  [salihmarangoz](https://github.com/salihmarangoz) / **[RobotMappingCourse](https://github.com/salihmarangoz/RobotMappingCourse)**
  -  [aimas-upb](https://github.com/aimas-upb) / **[slam-course-solutions](https://github.com/aimas-upb/slam-course-solutions)**
